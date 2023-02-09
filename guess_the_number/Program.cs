@@ -6,10 +6,10 @@ while (true) {
 
     if (randomNumber == userNumber) {
         Console.WriteLine("Вы угадали!!!");
-        Console.WriteLine("хотите сыграть заново? да или нет");
+        Console.WriteLine("хотите сыграть заново? напишите да или нет.");
         string userAnswer = Console.ReadLine();
 
-        if (userAnswer == "да") {
+        if (userAnswer.ToLower() == "да") {
             continue;
         } else {
             break;
