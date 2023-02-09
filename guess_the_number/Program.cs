@@ -11,10 +11,8 @@ while (true) {
 
         if (userAnswer == "да") {
             continue;
-        } else if (userAnswer == "нет") {
+        } else {
             break;
-            } else {
-            Console.WriteLine("eeeeeeee");
         }
 
     } else {
