@@ -1,0 +1,15 @@
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.csproj.AssemblyReference.cache
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.AssemblyInfoInputs.cache
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.AssemblyInfo.cs
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.csproj.CoreCompileInputs.cache
+C:\Users\mboja\Desktop\csharp\lesson1\8\bin\Debug\net7.0\8.exe
+C:\Users\mboja\Desktop\csharp\lesson1\8\bin\Debug\net7.0\8.deps.json
+C:\Users\mboja\Desktop\csharp\lesson1\8\bin\Debug\net7.0\8.runtimeconfig.json
+C:\Users\mboja\Desktop\csharp\lesson1\8\bin\Debug\net7.0\8.dll
+C:\Users\mboja\Desktop\csharp\lesson1\8\bin\Debug\net7.0\8.pdb
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.dll
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\refint\8.dll
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.pdb
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\8.genruntimeconfig.cache
+C:\Users\mboja\Desktop\csharp\lesson1\8\obj\Debug\net7.0\ref\8.dll
