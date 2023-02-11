@@ -1,4 +1,5 @@
 ﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
 Console.Clear();
 Console.WriteLine("максимальное минимальное число из 2 цифр.");
 Console.Write("введите первое число: ");
@@ -9,11 +10,16 @@ if (firstNumber > secondNumber)
 {
     Console.WriteLine("максимальное число " + firstNumber);
     Console.WriteLine("минимальное число " + secondNumber);
-} else {
-    if (secondNumber > firstNumber) {
+}
+else
+{
+    if (secondNumber > firstNumber)
+    {
         Console.WriteLine("максимальное число " + secondNumber);
         Console.WriteLine("минимальное число " + firstNumber);
-    } else {
+    }
+    else
+    {
         Console.WriteLine("это одинаковые числа!");
     }
 }
