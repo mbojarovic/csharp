@@ -14,6 +14,5 @@ while (startNumber <= userNumber)
     {
         Console.Write(startNumber + " ");
     }
-
     startNumber = startNumber + 1;
 }
