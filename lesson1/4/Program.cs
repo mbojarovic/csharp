@@ -17,12 +17,9 @@ if (secondNumber > maximum)
 {
     maximum = secondNumber;
 }
-else
+if (thirdNumber > maximum)
 {
-    if (thirdNumber > maximum)
-    {
-        maximum = thirdNumber;
-    }
+    maximum = thirdNumber;
 }
 
 Console.WriteLine("максимальное из 3 чисел это - " + maximum);
