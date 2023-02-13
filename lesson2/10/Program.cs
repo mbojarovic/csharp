@@ -5,6 +5,6 @@
 782 -> 8
 918 -> 1 */
 //int randomNumber = ;
-byte randomNumber = new Random().Next(99,1000);
-byte rNumber = randomNumber / 10 % 10;
-Console.WriteLine($"число {randomNumber} вторую цифру -{rNumber}");
+int randomNumber = new Random().Next(99,1000);
+int rNumber = randomNumber / 10 % 10;
+Console.WriteLine($"число {randomNumber} вторую цифру {rNumber}");
