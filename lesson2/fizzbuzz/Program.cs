@@ -9,6 +9,7 @@ byte count = 1;
 byte end = 100;
 string firstName = "Fizz";
 string secondName = "Buzz";
+string thirdName = "FizzBuzz";
 while (count <= end)
 {
     if (count % 3 == 0)
@@ -18,7 +19,10 @@ while (count <= end)
     if (count % 5 == 0)
         Console.Write(secondName);
 
-    if (count % 3 != 0 & count % 5 != 0)
+        if (count % 15 == 0)
+        Console.Write(thirdName);
+
+    if (count % 3 != 0 & count % 5 != 0 & count % 15 != 0 )
     {
         Console.Write(count);
     }
