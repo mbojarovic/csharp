@@ -59,10 +59,10 @@ while (true)
                 Console.WriteLine($"является ли {number} палиндромом -> нет");
             };
 
-            Console.WriteLine("Проверить еще одно число yes or no ?");
+            Console.WriteLine("Проверить еще одно число да или нет ?");
             string answer = Console.ReadLine().ToLower();
 
-            if (answer == "yes")
+            if (answer == "да")
                 continue;
             else
             {
