@@ -4,6 +4,7 @@
 14212 -> нет
 12821 -> да
 23432 -> да*/
+
 int prompt(string message)
 {
     Console.WriteLine(message);
@@ -60,9 +61,9 @@ while (true)
             };
 
             Console.WriteLine("Проверить еще одно число да или нет ?");
-            string answer = Console.ReadLine().ToLower();
+            string? userAnswer = Console.ReadLine();
 
-            if (answer == "да")
+            if (userAnswer?.ToLower()  == "да")
                 continue;
             else
             {
