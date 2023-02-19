@@ -21,5 +21,3 @@ int x2 = Convert.ToInt32(Console.ReadLine());
 int y2 = Convert.ToInt32(Console.ReadLine());
 int z2 = Convert.ToInt32(Console.ReadLine());
 Distance(x1, y1, z1, x2, y2, z2);
-
-
