@@ -73,8 +73,6 @@ while (true)
         {
             Console.WriteLine("введено ни пятизначное число!");
         }
-
-
     }
 
     catch
