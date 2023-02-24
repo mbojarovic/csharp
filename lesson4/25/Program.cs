@@ -2,6 +2,8 @@
 3, 5 -> 243 (3⁵)
 2, 4 -> 16 */
 
+
+// Dobavit proverku na 0, prompt 1, 2 ninado
 int numberA(string message)
 {
     Console.WriteLine(message);
