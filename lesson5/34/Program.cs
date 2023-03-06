@@ -17,17 +17,17 @@ int RandomDigits()
 
 int[] FillArray(int[] array)
 {
-    int[] nArray = new int[] { };
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = RandomDigits();
     }
-    return nArray = array;
+    return array;
 }
 
 void EvenNumbers(int[] array)
 {
     int count = 0;
+
     foreach (int element in array)
     {
         if (element % 2 == 0)
